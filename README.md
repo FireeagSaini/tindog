@@ -1,2 +1,5 @@
-# tindog_testing
-just testing to optimize on mobile phone
+# tindog
+
+find new and intresting dogs nearby.
+just front-end as im still learning how these things work so dont expect much from it...
+thankyou...
